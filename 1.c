@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void function x(){
+void function x(int i, int j){
 }
 
 void main() {
